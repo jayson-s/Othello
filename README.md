@@ -1,4 +1,5 @@
 # Othello
+<<<<<<< HEAD
 The board game Othello built in JavaFX.
 ## How to Play
 Basic rules for the game are as follows:
@@ -24,3 +25,6 @@ Clone the repository to your local machine using Github's built-in features or o
 - Open the project configuration menu located at the top right of the IDE and select **Edit Configuration**.
 - Add `--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml` to the **VM Options** if it is not added already (it should be).
 - Choose the `Othello [run]` configuration and press **Run** to see the program. 
+=======
+An Othello game with AI opponent and strategic analysis.
+>>>>>>> 89c4a26865c7f66e38b13f1a27b561ca6e35d6d6
